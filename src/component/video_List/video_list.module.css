@@ -1,0 +1,16 @@
+.video {
+  list-style: none;
+  width: 30%;
+}
+.img {
+  width: 100%;
+  padding: 1rem 0;
+  cursor: pointer;
+}
+.title {
+  cursor: pointer;
+}
+.channelTitle {
+  color: grey;
+  cursor: pointer;
+}

@@ -1,0 +1,7 @@
+.video_detail {
+  flex: 1 1 65%;
+  padding: 2rem;
+}
+.description {
+  white-space: pre-wrap;
+}

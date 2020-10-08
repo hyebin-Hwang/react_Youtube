@@ -1,0 +1,7 @@
+.content_container {
+  flex: 1 1 35%;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 2rem;
+  justify-content: space-between;
+}
